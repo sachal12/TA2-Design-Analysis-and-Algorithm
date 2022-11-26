@@ -20,4 +20,10 @@
 9)If all the conditions give answer true then the solution is valid.
 ***
 10)Printing the matrix using two for loops.
+## Screenshot Ouput
+
+
+
+![Screenshot (3287)](https://user-images.githubusercontent.com/93744891/204106418-d8f8beab-a353-4f6f-b719-7cd6e334667f.png)
+There does not exist any solution for n less or qual than 3
 
