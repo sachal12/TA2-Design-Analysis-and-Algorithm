@@ -36,3 +36,18 @@ Veritical Solution does not exist
 
 ![Screenshot (3289)](https://user-images.githubusercontent.com/93744891/204106511-6e38c41e-7375-4627-a4e3-a9ae6d0e5602.png)
 Not the solution from diagonal
+![Screenshot (3291)](https://user-images.githubusercontent.com/93744891/204106567-02297eb0-a0f3-4ce8-869c-b2387bb209c4.png)
+Solution for 4*4 matrix
+![Screenshot (3292)](https://user-images.githubusercontent.com/93744891/204106668-c41afc8b-b36d-44b2-886b-07a1ea815e22.png)
+Solution for 6*6 matrix
+![Screenshot (3293)](https://user-images.githubusercontent.com/93744891/204106799-f6775fef-e378-4dbd-956e-38ca60eb5ce4.png)
+
+solution for 8*8 matrix
+
+
+
+
+
+
+
+
