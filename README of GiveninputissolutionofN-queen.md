@@ -18,5 +18,6 @@
 8) this condition |x2-x1|=|y2-y1| helps us in checking for the diagonals.
 ![20221127_010026](https://user-images.githubusercontent.com/93744891/204106076-97c40ace-e366-48cf-9dad-d609401da6f5.jpg)
 9)If all the conditions give answer true then the solution is valid.
+***
 10)Printing the matrix using two for loops.
 
