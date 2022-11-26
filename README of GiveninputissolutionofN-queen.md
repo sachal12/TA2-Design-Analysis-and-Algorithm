@@ -27,3 +27,12 @@
 ![Screenshot (3287)](https://user-images.githubusercontent.com/93744891/204106418-d8f8beab-a353-4f6f-b719-7cd6e334667f.png)
 There does not exist any solution for n less or qual than 3
 
+![Screenshot (3288)](https://user-images.githubusercontent.com/93744891/204106481-f743baa7-59b8-4c80-be58-a8a4a08a7b9e.png)
+Veritical Solution does not exist
+
+
+
+
+
+![Screenshot (3289)](https://user-images.githubusercontent.com/93744891/204106511-6e38c41e-7375-4627-a4e3-a9ae6d0e5602.png)
+Not the solution from diagonal
