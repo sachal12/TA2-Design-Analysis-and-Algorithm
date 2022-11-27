@@ -1,3 +1,4 @@
+## Aprroach of the solution
 We take input from the user
 defining a chessboard with all values zero.
 Checking if the cell is under attack by other queens
